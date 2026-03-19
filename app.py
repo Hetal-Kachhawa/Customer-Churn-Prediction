@@ -10,6 +10,12 @@ st.set_page_config(page_title="Churn Prediction", layout="centered")
 st.title("Customer Churn Prediction")
 st.write("Predict whether a customer is likely to churn.")
 
+try:
+    model = joblib.load("churn_model.pkl")
+except Exception as e:
+    st.error(f"Model failed to load: {e}")
+    st.stop()
+
 # Sidebar
 st.sidebar.header("About")
 st.sidebar.write("This app uses an optimized ML model to predict customer churn.")
