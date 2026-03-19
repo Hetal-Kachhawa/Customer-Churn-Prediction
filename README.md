@@ -1,10 +1,5 @@
 # Customer Churn Prediction App
 
-## Live App
-http://localhost:8501
-
----
-
 ## Project Overview
 This is an end-to-end Machine Learning project to predict customer churn.  
 The workflow follows a structured pipeline from data preprocessing to model deployment, ensuring both analytical depth and practical usability.
@@ -136,13 +131,3 @@ Optimized parameters such as:
 ## Deployment
 - Model deployed using **Streamlit**  
 - Provides real-time churn prediction based on user input  
-
----
-
-## Run Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Customer-Churn-Prediction.git
-cd Customer-Churn-Prediction
-pip install -r requirements.txt
-streamlit run app.py
