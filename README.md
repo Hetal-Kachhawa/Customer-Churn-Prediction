@@ -62,13 +62,20 @@ The goal is to identify high-risk customers and support retention strategies.
 
 ## App Preview
 
-### Input Form 
+### Input Form 1
+
 <img width="945" height="500" alt="Screenshot input2" src="https://github.com/user-attachments/assets/739d04c5-1678-43d9-8a30-035daabdf0cb" />
-### Input Form 
+
+### Input Form 2
+
 <img width="904" height="600" alt="Screenshot inputs" src="https://github.com/user-attachments/assets/302f48d2-86f1-456b-a08b-47ee96672c86" />
+
 ### Prediction Result of Stay
+
 <img width="855" height="400" alt="likely_to_stay_predict" src="https://github.com/user-attachments/assets/d068dd26-5fab-4c54-9373-0150331db963" />
+
 ### Prediction Result of Risk 
+
 <img width="783" height="478" alt="churning_risk" src="https://github.com/user-attachments/assets/8444e5d6-83d8-43c3-a7b1-e1a64010c971" />
 ---
 
