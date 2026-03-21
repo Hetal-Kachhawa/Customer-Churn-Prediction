@@ -57,7 +57,11 @@ The goal is to identify high-risk customers and support retention strategies.
 - Scikit-learn, XGBoost  
 - Matplotlib, Seaborn  
 - Streamlit  
-
+---
+## Deployment Status
+- The application was built and tested locally using Streamlit.
+- Deployment was attempted but not completed due to environment compatibility issues.
+  
 ---
 
 ## App Preview
